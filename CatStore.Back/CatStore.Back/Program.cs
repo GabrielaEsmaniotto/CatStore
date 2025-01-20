@@ -20,5 +20,4 @@ else if (idade > 10 && idade <= 15)
 else
 {
     Console.WriteLine("Seu gato precisa de um plano de saúde!");
-    Console.WriteLine("321");
 }
